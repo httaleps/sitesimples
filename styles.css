@@ -1,8 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url(saul.gif);
-    background-repeat: no-repeat;
-    background-size: 100%;
+    background-image: url(fundo.gif);
     margin: 0;
     padding: 0;
     display: flex;
